@@ -1,1 +1,1 @@
-All the supplementary figures
+All figures used in the paper
