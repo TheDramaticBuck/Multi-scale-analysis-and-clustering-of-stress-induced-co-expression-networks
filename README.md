@@ -9,7 +9,7 @@ Paper with all supplementary figures included. Extended version of arxiv.
 
 Dissimilarity matrix and co-expression network construction folder
 ------------------------------------------------------------------
-The construction of dissimilarity matrices according to the functions outlined above in the paper and an implementation of the RMST algorithm in C++. This algorithm is based on the original code provided by Dr. Vangelov and Professor Barahona. (available soon)
+Contains code for the construction of dissimilarity matrices according to the functions outlined in the paper and an implementation of the RMST algorithm in C++ (see paper for details).(available soon)
 
 
 Clustering performance evaluation folder
