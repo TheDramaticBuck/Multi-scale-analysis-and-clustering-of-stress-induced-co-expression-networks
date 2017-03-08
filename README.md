@@ -2,4 +2,8 @@
 ==============================================================================
 Protocol for clustering analysis and integration of multiple dataset multi-scale organisation under a graph-theoretical paradigm (available soon).
 
+PaperWithSupplFigs folder
+-------------------------
+Paper with all supplementary figures included. Extended version of arxiv. 
+
 
