@@ -14,4 +14,4 @@ Contains code for the construction of dissimilarity matrices according to the fu
 
 Clustering performance evaluation folder
 ----------------------------------------
-Routines in C++ for evaluation of clustering performance and for comparison with Bayesian clustering analysis. Standard R routines for cutting hierarchical dendrograms using widely available code from bio-conductor are also provided. (available soo)
+Routines in C++ for evaluation of clustering performance and for comparison with Bayesian clustering analysis. Standard R routines for cutting hierarchical dendrograms using widely available code from bio-conductor are also provided. (available soon)
