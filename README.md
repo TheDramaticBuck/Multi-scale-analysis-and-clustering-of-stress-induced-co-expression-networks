@@ -1,7 +1,7 @@
 # Multi-scale-analysis-and-clustering-of-stress-induced-co-expression-networks
 ==============================================================================
 
-Protocol for clustering analysis and integration of multiple dataset multi-scale organisation under a graph-theoretical paradigm. Includes full version of the paper and respective figures (https://arxiv.org/abs/1703.02872) and supporting code used in several sections.
+Code for several stages of a protocol for clustering analysis and integration of multiple dataset multi-scale organisation under a graph-theoretical paradigm; described in: https://arxiv.org/abs/1703.02872. Extended version of the paper with supplementary figures is also provided in the "PaperWithSupplFigs folder".
 
 PaperWithSupplFigs folder
 -------------------------
