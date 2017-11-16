@@ -11,7 +11,7 @@ For specific details on the underlying methods, including stability analysis, an
  
         https://arxiv.org/abs/1703.02872 
 
-function [Hav_MT,Sav_MT,GOTOavbp_MT,GOTOavmf_MT,GOTOavcc_MT]=HavSavGOTO(T,probenames,datamatrix,SGDmap_bp,SGDmap_mf,SGDmap_cc,C)
+function [Hav_MT,Sav_MT,GOTOavbp_MT,GOTOavmf_MT,GOTOavcc_MT]=HavSavGOTOav(T,probenames,datamatrix,SGDmap_bp,SGDmap_mf,SGDmap_cc,C)
 
 Inputs:
 
