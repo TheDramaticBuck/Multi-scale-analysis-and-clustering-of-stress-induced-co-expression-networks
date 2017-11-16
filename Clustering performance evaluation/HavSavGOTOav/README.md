@@ -24,6 +24,7 @@ probenames ................................. Identifiers for each row of datamat
 datamatrix ................................. Row-wise normalized expression matrix: n probenames by p time-points
 
 SGDmap_bp, SGDmap_mf and SGDmap_cc ......... Map container of Gene Ontology terms for S.cerevisiae (SGD); import with load('SC_CompleteGOterms.mat')
+
 C .......................................... n probes by length(T) matrix of partition solutions identified by stability analysis; each column is a vector where entries are identified by their respective cluster or community at the respective Markov time
 
 Outputs:
