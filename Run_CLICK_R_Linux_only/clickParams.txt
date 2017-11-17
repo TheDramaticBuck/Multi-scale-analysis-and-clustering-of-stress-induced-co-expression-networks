@@ -1,0 +1,10 @@
+DATA_TYPE 
+FP 
+INPUT_FILES_PREFIX 
+/Users/nunonene/Documents/Postdoc_Illingworth_group/Code_and_sim_results/Leja/click/clickInput 
+OUTPUT_FILE_PREFIX 
+./clickLinux/clickLinux/output/click_0.51 
+SIMILARITY_TYPE 
+CORRELATION 
+HOMOGENEITY 
+0.51 
