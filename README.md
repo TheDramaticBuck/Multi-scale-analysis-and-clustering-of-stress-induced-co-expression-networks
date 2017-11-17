@@ -15,9 +15,15 @@ Contains code for the construction of dissimilarity matrices according to the fu
 
 Clustering performance evaluation folder
 ----------------------------------------
-Routines in C++ for evaluation of clustering performance and for comparison with Bayesian clustering analysis. Standard R routines for cutting hierarchical dendrograms using widely available code from bio-conductor are also provided. (available soon)
+Routines in C++ for evaluation of clustering performance (LOOCVav)(available soon).
+Routines in Matlab for linear performance functions: Homogeneity, Separation and Gene Ontology Overlap.
 
 AMI folder
 ----------
 
 Matlab files for computing the distance in partition space (1-AMI) between clustering solutions determined by stability analysis.
+
+Run_CLICK_R_Linux
+-----------------
+
+Further results generated through the CLICK algorithm (not provided in the paper): http://acgt.cs.tau.ac.il/expander/.
