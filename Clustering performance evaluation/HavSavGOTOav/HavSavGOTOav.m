@@ -41,10 +41,6 @@ poolobj = gcp('nocreate'); % If no pool, do not create new one.
 
 if isempty(poolobj)
     
-    poolsize = 0;
-    
-else
-    
     parpool('local',8)
 end
 
@@ -407,8 +403,14 @@ T_str=num2str(i,'%d');
                 GOTOavcc_MT(i,1)=GOTOavcc_MT(i,1)+(numel(probes).*GOTOclust_cc(j,1)./numel(probenames));
  
         end
+        
+        
             
  end
+ 
+ delete(gcp('nocreate'));
+ 
+end
 
     
        
