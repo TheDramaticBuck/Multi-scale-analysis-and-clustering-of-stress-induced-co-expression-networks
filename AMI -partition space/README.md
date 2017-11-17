@@ -2,7 +2,7 @@
 Adjusted Mutual Information between multi-scale/multi-resolution partition solution found by stability analysis
 ===============================================================================================================
 
-The distance function that provided the best results is based on the mutual information (MI) between stress-specific partition solutions at different resolutions. Yet, it is corrected for chance under an hyper-geometric model by the expected value for MI between two partitions and the entropy of each partition.
+The distance function that provided the best results is based on the mutual information (MI) between stress-specific partition solutions at different resolutions. Yet, it is corrected for chance under an hyper-geometric model by the expected value for MI between two partitions and the entropy of each partition (see references below).
 
 
 For specific details on the underlying methods, including stability analysis, relevant references and the datasets see:
