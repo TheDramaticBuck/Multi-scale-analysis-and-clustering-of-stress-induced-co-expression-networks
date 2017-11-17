@@ -1,6 +1,7 @@
 % Contigency function
 
-% Based on original code by Nguyen Xuan Vinh 2008-2010
+% Based on original code by Nguyen Xuan Vinh 2011
+% (https://uk.mathworks.com/matlabcentral/fileexchange/33144-the-adjusted-mutual-information?requestedDomain=www.mathworks.com)
 
 % References:
 

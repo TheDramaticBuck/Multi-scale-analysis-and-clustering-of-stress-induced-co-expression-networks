@@ -2,7 +2,8 @@
 
 % Adjusted Mutual Information function
 
-% Based on original code by Nguyen Xuan Vinh 2008-2010
+% Based on original code by Nguyen Xuan Vinh 2011
+% (https://uk.mathworks.com/matlabcentral/fileexchange/33144-the-adjusted-mutual-information?requestedDomain=www.mathworks.com)
 
 % Inputs:
 
@@ -57,13 +58,13 @@ T=T(list_t,list_m);
 [R,C]=size(T);
 
 if C>1 
-    a=sum(T,2)';
+    a=sum(T');
 else
     a=T';
 end
 
 if R>1 
-    b=sum(T,1);
+    b=sum(T);
 else
     b=T;
 end

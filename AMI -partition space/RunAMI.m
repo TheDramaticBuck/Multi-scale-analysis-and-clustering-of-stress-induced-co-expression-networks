@@ -12,8 +12,8 @@
 % AMImat .................. Adjusted Mutual Information matrix between all the partitions
 
 
-
-% Based on original code by Nguyen Xuan Vinh 2008-2010
+% Based on original code by Nguyen Xuan Vinh 2011
+% (https://uk.mathworks.com/matlabcentral/fileexchange/33144-the-adjusted-mutual-information?requestedDomain=www.mathworks.com)
 
 % References:
 
@@ -54,7 +54,7 @@ for i=1:numel(C1(1,:))
     
    parfor j=1:numel(C2(1,:))
        
-      [AMImat(i,j)]= AMI(C,C2(:,j)+1);
+      [AMImat(i,j)]= AMI(C',C2(:,j)'+1);
        
        
    end
