@@ -27,3 +27,4 @@ Run_CLICK_R_Linux
 -----------------
 
 Further results generated through the CLICK algorithm (not provided in the paper): http://acgt.cs.tau.ac.il/expander/.
+Tested only in Linux.
