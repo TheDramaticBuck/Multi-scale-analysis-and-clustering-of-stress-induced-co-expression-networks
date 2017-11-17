@@ -2,14 +2,9 @@
 Adjusted Mutual Information between multi-scale/multi-resolution partition solution found by stability analysis
 ===============================================================================================================
 
-Distance function that provided the best results is based on the mutual information ($MI$) between stress-specific partition solutions at different resolutions. Yet, it is corrected for chance under an hyper-geometric model (Eq.~\ref{eq:Eq_AMI}) by the expected value for $MI$ between two partitions, $\mathbb{E}[MI(\Gamma_{t}^{Si},\Gamma_{t'}^{Sj})]$, and the entropy of each partition, $H(\Gamma_{t}^{Si})$.
+The distance function that provided the best results is based on the mutual information (MI) between stress-specific partition solutions at different resolutions. Yet, it is corrected for chance under an hyper-geometric model by the expected value for MI between two partitions and the entropy of each partition.
 
-\begin{equation}
-\begin{split}
-&AMI(\Gamma_{t}^{Si},\Gamma_{t'}^{Sj})=\\
-&\frac{MI(\Gamma_{t}^{Si},\Gamma_{t'}^{Sj})-\mathbb{E}[MI(\Gamma_{t}^{Si},\Gamma_{t'}^{Sj})]}{max(H(\Gamma_{t}^{Si}),H(\Gamma_{t'}^{Sj}))-\mathbb{E}[MI(\Gamma_{t}^{Si},\Gamma_{t'}^{Sj})]}\label{eq:Eq_AMI}
-\end{split}
-\end{equation} 
+
 
 References on AMI:
 
