@@ -1,0 +1,9 @@
+1 mM Menadione (10 min)redo; src: time = 0 min<->time = 10 min
+1 mM Menadione (20 min) redo; src: time = 0 min<->time = 20 min
+1 mM Menadione (30 min) redo; src: time = 0 min<->time = 30 min
+1mM Menadione (40 min) redo; src: time = 0 min<->time = 40 min
+1 mM Menadione (50 min)redo; src: time = 0 min<->time = 50 min
+1 mM Menadione (80 min) redo; src: time = 0 min<->time = 80 min
+1 mM Menadione (105 min) redo; src: time = 0 min<->time = 105 min
+1 mM Menadione (120 min)redo; src: time = 0 min<->time = 120 min
+1 mM Menadione (160 min) redo; src: time = 0 min<->time = 160 min

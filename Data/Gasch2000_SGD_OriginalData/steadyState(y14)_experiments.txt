@@ -1,0 +1,8 @@
+steady state 15 dec C; src: pool<->15 deg C
+steady state 17 dec C; src: pool<->17 deg C
+steady state 21 dec C; src: pool<->21 deg C
+steady state 25 dec C; src: pool<->25 deg C
+steady state 29 dec C; src: pool<->29 deg C
+steady state 33 dec C; src: pool<->33 deg C
+steady state 36 dec C; src: pool<->36 deg C
+steady state 36 dec C: y14n095; src: pool<->36 deg C

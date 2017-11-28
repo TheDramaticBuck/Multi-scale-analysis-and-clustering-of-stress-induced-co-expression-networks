@@ -1,0 +1,8 @@
+2.5mM DTT 005 min; src: time zero<->005 min
+2.5mM DTT 015 min; src: time zero<->015 min
+2.5mM DTT 030 min; src: time zero<->030 min
+2.5mM DTT 045 min; src: time zero<->045 min
+2.5mM DTT 060 min; src: time zero<->060 min
+2.5mM DTT 090 min; src: time zero<->090 min
+2.5mM DTT 120 min; src: time zero<->120 min
+2.5mM DTT 180 min; src: time zero<->180 min

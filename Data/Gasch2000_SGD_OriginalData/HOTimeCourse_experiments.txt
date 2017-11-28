@@ -1,0 +1,9 @@
+constant 0.32 mM H2O2 (10 min) redo; src: time = 0 min<->time = 10 min
+constant 0.32 mM H2O2 (20 min) redo; src: time = 0 min<->time = 20 min
+constant 0.32 mM H2O2 (30 min) redo; src: time = 0 min<->time = 30 min
+constant 0.32 mM H2O2 (50 min) redo; src: time = 0 min<->time = 50 min
+constant 0.32 mM H2O2 (60 min) redo; src: time = 0 min<->time = 60 min
+constant 0.32 mM H2O2 (80 min) redo; src: time = 0 min<->time = 80 min
+constant 0.32 mM H2O2 (100 min) redo; src: time = 0 min<->time = 100 min
+constant 0.32 mM H2O2 (120 min) redo; src: time = 0 min<->time = 120 min
+constant 0.32 mM H2O2 (160 min) redo; src: time = 0 min<->time = 160 min

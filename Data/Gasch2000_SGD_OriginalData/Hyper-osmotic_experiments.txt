@@ -1,0 +1,6 @@
+1M sorbitol - 5 min; src: time = 0 min<->time = 5 min
+1M sorbitol - 15 min; src: time = 0 min<->time = 15 min
+1M sorbitol - 30 min; src: time = 0 min<->time = 30 min
+1M sorbitol - 45 min (* centrifugation problem); src: time = 0 min<->time = 45 min
+1M sorbitol - 60 min; src: time = 0 min<->time = 60 min
+1M sorbitol - 90 min; src: time = 0 min<->time = 90 min

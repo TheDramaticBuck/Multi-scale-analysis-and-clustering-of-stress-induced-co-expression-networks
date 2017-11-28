@@ -1,0 +1,5 @@
+Amino acid + adenine starvation 0.5 h; src: t=0<->0.5 h
+Amino acid + adenine starvation 1 h; src: t=0<->1 h
+Amino acid + adenine starvation 2 h; src: t=0<->2 h
+Amino acid + adenine starvation 4 h; src: t=0<->4 h
+Amino acid + adenine starvation 6 h; src: t=0<->6 h

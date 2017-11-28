@@ -1,0 +1,5 @@
+25C -- 15 min; src: 37C<->25C - 15 min	25C -- 15 min; src: 37C<->25C - 15 min
+25C -- 30 min; src: 37C<->25C - 30 min	25C -- 30 min; src: 37C<->25C - 30 min
+25C -- 45 min; src: 37C<->25C - 45 min	25C -- 45 min; src: 37C<->25C - 45 min
+25C -- 60 min; src: 37C<->25C - 60 min	25C -- 60 min; src: 37C<->25C - 60 min
+25C -- 90 min; src: 37C<->25C - 90 min	25C -- 90 min; src: 37C<->25C - 90 min

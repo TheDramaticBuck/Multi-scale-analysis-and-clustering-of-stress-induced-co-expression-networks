@@ -1,0 +1,8 @@
+1.5 mM diamide (5 min); src: time = 0 min<->time = 5min
+1.5 mM diamide (10 min); src: time = 0 min<->time = 5min
+1.5 mM diamide (20 min); src: time = 0 min<->time = 20 min
+1.5 mM diamide (30 min); src: time = 0 min<->time = 30 min
+1.5 mM diamide (40 min); src: time = 0 min<->time = 40 min
+1.5 mM diamide (50 min); src: time = 0 min<->time = 50 min
+1.5 mM diamide (60 min); src: time = 0 min<->time = 60 min
+1.5 mM diamide (90 min); src: time = 0 min<->time = 90 min

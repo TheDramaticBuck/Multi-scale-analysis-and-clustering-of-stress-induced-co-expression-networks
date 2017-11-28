@@ -1,0 +1,6 @@
+YP raffinose vs reference pool; src: pool<->raffinose
+YP glucose vs reference pool; src: pool<->glucose
+YP galactose vs reference pool; src: pool<->galactose
+YP fructose vs reference pool; src: pool<->fructose
+YP sucrose vs reference pool; src: pool<->sucrose
+YP ethanol vs reference pool; src: pool<->ethanol

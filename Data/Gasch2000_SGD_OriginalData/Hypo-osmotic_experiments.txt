@@ -1,0 +1,5 @@
+Hypo-osmotic shock - 5 min; src: time = 0 (in 1M sorbitol)<->time = 5 min after shift to YPD
+Hypo-osmotic shock -15 minutes; src: time = 0 in 1M sorbitol<->time = 15 minutes after shift to YPD
+Hypo-osmotic shock -30 minutes; src: time = 0 in 1M sorbitol<->time = 30 minutes after shift to YPD
+Hypo-osmotic shock - 45 minutes; src: time = 0 in 1M sorbitol<->time = 45 minutes after shift to YPD
+Hypo-osmotic shock - 60 minutes; src: time = 0 in 1M sorbitol<->time = 60 minutes after shift to YPD

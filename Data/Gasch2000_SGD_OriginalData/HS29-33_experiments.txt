@@ -1,0 +1,4 @@
+29C to 33C - 5 min; src: time = 0 at 29C<->time = 5 mintues after shift to 33C
+29C to 33C - 15 min; src: time = 0 at 29C<->time = 15 mintues after shift to 33C
+29C to 33C -30 min; src: time = 0 at 29C<->time = 30 mintues after shift to 33C
+29C to 33C - 90 min; src: time = 0 at 29C<->time = 90 mintues after shift to 33C

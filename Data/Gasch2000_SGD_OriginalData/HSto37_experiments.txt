@@ -1,0 +1,6 @@
+"heat shock 17 to 37, 20 minutes; src: 17 t0<->37 t20"
+"heat shock 21 to 37, 20 minutes; src: 21 t0<->37 t20"
+"heat shock 25 to 37, 20 minutes; src: 25 t0<->37 t20"
+"heat shock 29 to 37, 20 minutes; src: 29 t0<->37 t20"
+"heat shock 33 to 37, 20 minutes; src: 33 t0<->37 t20"
+"heat shock 37 to 37, 20 minutes; src: 37 t0<->37 t20"

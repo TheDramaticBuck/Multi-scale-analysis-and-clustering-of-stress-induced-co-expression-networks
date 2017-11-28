@@ -1,0 +1,3 @@
+29C +1M sorbitol to 33C + 1M sorbitol - 5 min; src: time = 0 at 29C + 1M sorbitol<->time = 5 mintues after shift to 33C + 1M sorbitol
+29C +1M sorbitol to 33C + 1M sorbitol - 15 min; src: time = 0 at 29C + 1M sorbitol<->time = 15 mintues after shift to 33C + 1M sorbitol
+29C +1M sorbitol to 33C + 1M sorbitol - 30 min; src: time = 0 at 29C + 1M sorbitol<->time = 30 mintues after shift to 33C + 1M sorbitol

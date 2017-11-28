@@ -1,0 +1,9 @@
+Nitrogen Depletion 30 min.; src: 0 min.<->30 min.
+Nitrogen Depletion 1 h; src: 0 h<->1 h
+Nitrogen Depletion 2 h; src: 0 h<->2 h
+Nitrogen Depletion 4 h; src: 0 h<->4 h
+Nitrogen Depletion 8 h; src: 0 h<->8 h
+Nitrogen Depletion 12 h; src: 0 h<->12 h
+Nitrogen Depletion 1 d; src: 0 d<->1 d
+Nitrogen Depletion 2 d; src: 0 d<->2 d
+Nitrogen Depletion 3 d; src: 0 d<->3 d

@@ -1,0 +1,8 @@
+heat shock 05 min; src: time zero<->05 min
+heat shock 10 min; src: time zero<->10 min
+heat shock 15 min; src: time zero<->15 min
+heat shock 20 min; src: time zero<->20 min
+heat shock 20 min repeat; src: time zero<->20 min
+heat shock 40 min; src: time zero<->40 min
+heat shock 60 min; src: time zero<->60 min
+heat shock 80 min; src: time zero<->80 min

@@ -1,0 +1,5 @@
+17 deg growth; src: 33 deg<->17 deg
+21 deg growth; src: 33 deg<->21 deg
+25 deg growth; src: 33 deg<->25 deg
+29 deg growth; src: 33 deg<->29 deg
+37 deg growth; src: 33 deg<->37 deg
