@@ -8,9 +8,9 @@ PaperWithSupplFigs folder
 Paper with all supplementary figures included. Extended version of arxiv: https://arxiv.org/abs/1703.02872. 
 
 
-Dissimilarity matrix and co-expression network construction folder
-------------------------------------------------------------------
-Contains code for the construction of dissimilarity matrices according to the functions outlined in the paper and an implementation of the RMST algorithm in C++ (see paper for details).
+Dissimilarity matrix construction folder
+----------------------------------------
+Contains code for the construction of dissimilarity matrices according to the functions outlined in the paper.
 
 
 Clustering performance evaluation folder
